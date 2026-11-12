@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Install & setup guide
-    url: https://github.com/get-aura-app/aura/blob/main/INSTALL.md
-    about: Please check the install guide before opening an issue
-  - name: Report a security issue (private)
-    url: https://github.com/get-aura-app/aura/security/advisories/new
-    about: Please report security problems privately, not as a public issue
